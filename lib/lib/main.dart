@@ -48,7 +48,7 @@ class NotesApp extends StatelessWidget {
     ),
   );
 
-  /// Handle named route
+
   Route _generateRoute(RouteSettings settings) {
     try {
       return _doGenerateRoute(settings);
