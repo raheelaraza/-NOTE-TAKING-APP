@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 
 import 'package:flt_keep/styles.dart';
 
-/// Settings screen.
+
 class SettingsScreen extends StatefulWidget {
   @override
   State<StatefulWidget> createState() => _SettingsScreenState();
