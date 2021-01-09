@@ -15,6 +15,6 @@ class NoteFilter extends ChangeNotifier {
     }
   }
 
-  /// Creates a [NoteFilter] object.
+
   NoteFilter([this._noteState = NoteState.unspecified]);
 }
