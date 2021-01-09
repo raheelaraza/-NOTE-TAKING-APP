@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-/// font-weight definitions
+
 class FontWeights {
   FontWeights._();
 
