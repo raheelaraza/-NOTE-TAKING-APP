@@ -1,6 +1,6 @@
 import 'package:flutter/widgets.dart';
 
-/// Icon ideentifiers for the app.
+
 class AppIcons {
   AppIcons._();
 
